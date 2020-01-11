@@ -1,6 +1,6 @@
 <div id="contents"></div>
 
-# STA160 Project
+# STA 160 Practice in Statistical Data Science Project
 
 This project works to explore the disparity in professional tennis players' career performance based on their historic game-play statistics. The goal is to identify the key features that distinguishes an outstanding player; We do this by evaluating different dimensions of match data and player characteristics.
 
