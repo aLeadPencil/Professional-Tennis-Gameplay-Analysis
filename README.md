@@ -2,7 +2,7 @@
 
 # STA160 Project
 
-This project hopes to explore tennis and what differentiates players from one another.
+This project works to explore the disparity in professional tennis players' career performance based on their historic game-play statistics. The goal is to identify the key features that distinguishes an outstanding player; We do this by evaluating different dimensions of match data and player characteristics.
 
 # Dataset
 
